@@ -82,6 +82,9 @@ This project simulates a real-world hiring process by automating resume evaluati
 It helps recruiters quickly identify the most suitable candidates and analyze skill gaps efficiently.
 
 ---
+## 📸 Output Screenshot
+
+![Output](screenshot.png)
 
 ## 🔗 Author
 
